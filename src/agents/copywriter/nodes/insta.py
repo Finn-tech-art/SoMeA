@@ -1,0 +1,1 @@
+"""Generates highly conversational context copy focused on engagement loops and soft CTAs."""

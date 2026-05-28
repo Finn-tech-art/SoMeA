@@ -1,0 +1,1 @@
+"""Crafts high-impact engineering threads or compact hook captions depending on active mode rules."""

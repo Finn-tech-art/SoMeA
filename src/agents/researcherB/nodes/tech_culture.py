@@ -1,0 +1,1 @@
+"""Scrapes developer communities and web boards for trending developer tropes and engineering inside-jokes."""

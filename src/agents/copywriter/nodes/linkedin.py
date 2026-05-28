@@ -1,0 +1,1 @@
+"""Drafts clear, text-dense multi-slide descriptions designed to maximize dwell time and engagement."""

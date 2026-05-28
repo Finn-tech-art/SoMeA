@@ -1,0 +1,1 @@
+"""Builds a clear layout blueprint mapping image background requirements to corresponding text overlays."""

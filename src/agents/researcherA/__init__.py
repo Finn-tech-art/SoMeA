@@ -1,0 +1,1 @@
+"""This is the researcher agent. it constructs the intellectual framework and ensures your distinct startup voice is preserved."""

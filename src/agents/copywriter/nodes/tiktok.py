@@ -1,0 +1,1 @@
+"""Outputs quick, punchy text configurations designed to display within the first 3 seconds of a video loop"""
